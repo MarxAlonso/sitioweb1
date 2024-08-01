@@ -17,5 +17,6 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    "react/prop-types": "off",//Esto hace para las clases o propuedad del apartado de Section.jsx no esten en linea roja
   },
 }
